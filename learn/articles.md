@@ -1,0 +1,1 @@
+https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03
